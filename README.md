@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Steve
+🎓 B.Tech CSE (AI & DS) Student
+💻 Python | C | C++ | MySQL | Docker | Kubernetes | Git
+🤖 AI/ML Enthusiast | ⚙️ DevOps Learner | ☁️ Cloud Explorer
+🚀 Building projects, learning continuously, and growing as a Software Engineer
 
 <!--
 **stephen-shirodkar/stephen-shirodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
